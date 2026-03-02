@@ -1,5 +1,7 @@
 # Universal Cell Embedding (UCE) Benchmarking
 
+(CODE AVAILABLE IN PRIVATE REPO - CONTACT NEO FOR WALKTHROUGH)
+
 A modular Python framework for benchmarking K-Nearest Neighbors (KNN) model accuracy in cell type prediction using foundation models like Universal Cell Embedding (UCE) and SCimilarity.
 
 ## Overview
